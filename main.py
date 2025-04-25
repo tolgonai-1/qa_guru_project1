@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hello Tolgonai!Dastanova!Mamytova!, {Mamytova}!Tolgonai!')  # Press ⌘F8 to toggle the breakpoint.
+    print(f'Hello Tolgonai!Dastanova!Mamytova!, {gender}')  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
